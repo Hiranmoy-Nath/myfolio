@@ -17,15 +17,10 @@
 
 - 📄 Know about my experiences [I’ve completed virtual Web Development internships at Shadowfox and Vaishnav Technologies, where I worked on responsive design, frontend optimization, and real-time project development using HTML, CSS, Bootstrap, and JavaScript. These experiences enhanced my practical understanding of modern web technologies and helped me grow as a developer through hands-on learning and creative implementation.](I’ve completed virtual Web Development internships at Shadowfox and Vaishnav Technologies, where I worked on responsive design, frontend optimization, and real-time project development using HTML, CSS, Bootstrap, and JavaScript. These experiences enhanced my practical understanding of modern web technologies and helped me grow as a developer through hands-on learning and creative implementation.)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/hiranmoy_nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hiranmoy_nath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiranmoy-nath-01589a346?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvyrwl3y7tvma3cbkzkvplq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiranmoy-nath-01589a346?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bvyrwl3y7tvma3cbkzkvplq%3d%3d" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/hiranmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hiranmoynath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hiranmoy nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiranmoy nath" height="30" width="40" /></a>
+<a href="https://kaggle.com/hiranmoynath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hiranmoynath" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/jf5xfqf2zi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jf5xfqf2zi" height="30" width="40" /></a>
 </p>
 
